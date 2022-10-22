@@ -16,3 +16,4 @@ for number in $(
 done
 
 echo ${total}
+echo ${total}
